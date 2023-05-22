@@ -4,6 +4,11 @@
 body {
   background-image: url("../img/colorful.jpg");
   background-size: cover;
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  
+  
  }
   
   * {
@@ -13,6 +18,4 @@ body {
   p {
     font-size: 18px;
   }
- 
-
  
