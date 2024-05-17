@@ -1,3 +1,6 @@
-## PTTO - 상대방의 선물 취향을 알아 내기 위해 MBTI 테스트로 위장한 웹페이지입니다. 
+## PTTO - WEBPage
 
-배포 링크 : https://aengzu.github.io/balancegame_Web/
+**Deploy Link** : https://aengzu.github.io/balancegame_Web/
+
+**SHOWCASE**
+<img width="1144" alt="스크린샷 2024-05-18 오전 8 43 56" src="https://github.com/aengzu/balancegame_Web/assets/102356873/2a1990c8-b0c3-4884-b404-71cda36612be">
